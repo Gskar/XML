@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MPITEMS>
+
+    <created_at>2021-11-23 11:12:00</created_at>
+
+    <products>
+
+        <category>Smartphones</category>
+
+        <SKU>320687 </SKU>
+
+        <name>Smartphone Apple iPhone 12 Mini 64GB Purple</name>
+
+        <EAN>194252431948</EAN>
+
+        <MPN>MJQF3ZD/A</MPN>
+
+        <manufacturer>Apple</manufacturer>
+
+        <description>Με επεξεργαστή A14 Bionic, οθόνη Super Retina XDR, σύνδεση 5G με Smart Data Mode, Dual Camera F1.6 με Deep Fusion, εμπρόσθια κάμερα
+        TrueDepth, αγαπημένο design και την πιο εξελιγμένη έκδοση iOS.</description>
+
+        <weight>0.2</weight>
+
+        <color>purple</color>
+
+        <url>https://www.eprice.it/APPLE-Iphone-11-6-1-pollici-pollici-64gb-Slim-Box-Purple-Europa-320687/d-61509152 </url>
+
+        <image>https://images.eprice.it/nobrand/0/Lightbox/330/213502330/816643_2.jpg </image>
+
+        <additional_image> https://images.eprice.it/nobrand/0/Lightbox/330/213502330/816643_2.jpg </additional_image>
+
+        <price>699.00</price>
+
+        <list_price>749.00</list_price>
+
+        <quantity>100</quantity>
+
+        <shipping_lead_time>3</shipping_lead_time>
+
+    </products>
+
+</MPITEMS>

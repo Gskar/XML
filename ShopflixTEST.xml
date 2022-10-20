@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product>
+    <ean>5200126760429</ean>
+    <sku>1</sku>
+    <price>5</price>
+    <quantity>100</quantity>
+    <shipping_lead_time>3</shipping_lead_time>
+    <name>Converter</name>
+    <manufacturer>Samandust</manufacturer>
+    <description>Για την μπανιέρα ή το τζακούζι καθώς μετατρέπει το συμβατό νερό σε Ιαματικό προσθέτοντας Ιχνοστοιχεία Χαλκού, Μαγνησίου και Καλίου!</description>
+    <weight>0.23</weight>
+    <color>white</color>
+  </product>
+</products>
